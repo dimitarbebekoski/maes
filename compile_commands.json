@@ -1,0 +1,142 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "src/base/add_round_key.cpp"
+    ],
+    "directory": "/home/dimitar/cur",
+    "file": "/home/dimitar/cur/src/base/add_round_key.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "src/base/mix_columns.cpp"
+    ],
+    "directory": "/home/dimitar/cur",
+    "file": "/home/dimitar/cur/src/base/mix_columns.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "src/base/shift_rows.cpp"
+    ],
+    "directory": "/home/dimitar/cur",
+    "file": "/home/dimitar/cur/src/base/shift_rows.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "src/base/sub_bytes.cpp"
+    ],
+    "directory": "/home/dimitar/cur",
+    "file": "/home/dimitar/cur/src/base/sub_bytes.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "src/core/cipher.cpp"
+    ],
+    "directory": "/home/dimitar/cur",
+    "file": "/home/dimitar/cur/src/core/cipher.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "src/core/key_expansion.cpp"
+    ],
+    "directory": "/home/dimitar/cur",
+    "file": "/home/dimitar/cur/src/core/key_expansion.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "src/test/file.cpp"
+    ],
+    "directory": "/home/dimitar/cur",
+    "file": "/home/dimitar/cur/src/test/file.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "src/test/main.cpp"
+    ],
+    "directory": "/home/dimitar/cur",
+    "file": "/home/dimitar/cur/src/test/main.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "src/test/test.cpp"
+    ],
+    "directory": "/home/dimitar/cur",
+    "file": "/home/dimitar/cur/src/test/test.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "src/test/timer.cpp"
+    ],
+    "directory": "/home/dimitar/cur",
+    "file": "/home/dimitar/cur/src/test/timer.cpp"
+  }
+]
